@@ -36,7 +36,7 @@ Basically the backend is an API (express), with a CRUD and routes to access to t
 the database with mongo.
 
 Basicamente el backend consta de una api (express) con un CRUD y rutas para acceder a la lista de eventos/notas subidos.
-La subida de archivos esta construida en base a multer y la base de datos con mongo.
+La base de datos con mongo.
 
 ## Project ScreenShot(s)
 
