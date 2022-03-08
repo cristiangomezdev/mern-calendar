@@ -22,7 +22,7 @@ El projecto es un calendario, te podes registrar, loguearte , subir eventos y vi
 
 ##### Front end:
 
-- log in /sign up page
+- log in /sign up / JWT
 - home section and calendar display
 - CRUD Events
 - Redux
