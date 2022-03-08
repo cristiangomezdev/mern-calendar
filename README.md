@@ -1,8 +1,13 @@
 # mern-calendar
 Web Application -  [Open App by click here](https://mern-calendar-api-22.herokuapp.com/)  /
+- Correo:
 ```diff
-- Correo: gomez1@gmail.com
-- Password: 123456
+ gomez1@gmail.com
+ 123456
+```
+- Password:
+ ```diff
+ 123456
 ```
 ## Calendario  English / Español
 
