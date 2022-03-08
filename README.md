@@ -33,33 +33,10 @@ La subida de archivos esta construida en base a multer y la base de datos con mo
 
 #### this is how it looks:   
 
-![alt text](https://imgkub.com/images/2022/03/08/example-masterframework.jpg)
+![alt text](https://imgkub.com/images/2022/03/08/example-calendar.jpg)
 
 ## Installation and Setup Instructions
 
 #### Instructions:  
 
-Clone down this repository. You will need `node` and `npm` installed globally on your machine, switch branch to main.
 
-First you need to do a "npm install" inside every folder to download and set the dependencies and then follow the next instructions:
-
-- Run mongod.exe and later mongo.exe.
-- Run backend
-- Run front end
-- enjoy
- 
-          
-Installation:
-
-`npm install`  
-
-
-To Start Server:
-
-`npm start`  
-
-## Reflection
-
-  - This project was really important to me, to make a standart level of knowledge of how they work.
-  - how to create components, how to pass them properties, learn how to make a navigation system, use the main libraries.
-  - By doing exactly the same thing in 3 different libraries/framewokrs has helped me a lot in learning the ecosystem of javascript and it's boundaries.
