@@ -1,5 +1,5 @@
 # mern-calendar
-
+Web Application
 ## Calendario  English / Español
 
 #### Calendario - mern:
@@ -13,24 +13,20 @@ El projecto es un calendario, te podes registrar, loguearte , subir eventos y vi
 
 ##### Front end:
 
-Basically there are 3 routes:
- - Home section with the 10 last news
- - Blog section with all the news
- - Create section to post new articles
+- log in /sign up page
+- home section and calendar display
+- CRUD Events
+- Redux
+- Test (jest / enzyme)
 
-you can edit any of the articles, also change the image and delete them as well.
-
-Basicamente hay 3 rutas:
- - Home seccion con las ultimas 10 noticias
- - Blog seccion con todas las noticias
- - Create seccion para crear una nueva noticia.
+you can edit any of the events, also change the time setting and notes and delete them as well.
 
 ##### Back end:
 
-Basically the backend is an API (express), with a CRUD and routes to access to the list of articles uploaded in a database.
-the file uploader is build with multer, and the database with mongo.
+Basically the backend is an API (express), with a CRUD and routes to access to the list of events/notes uploaded in a database.
+the database with mongo.
 
-Basicamente el backend consta de una api (express) con un CRUD y rutas para acceder a la lista de noticias/articulos subidos.
+Basicamente el backend consta de una api (express) con un CRUD y rutas para acceder a la lista de eventos/notas subidos.
 La subida de archivos esta construida en base a multer y la base de datos con mongo.
 
 ## Project ScreenShot(s)
