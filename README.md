@@ -22,7 +22,7 @@ El projecto es un calendario, te podes registrar, loguearte , subir eventos y vi
 
 ##### Front end:
 
-- log in /sign up / JWT
+- log in / sign up / JWT
 - home section and calendar display
 - CRUD Events
 - Redux
@@ -47,5 +47,28 @@ La subida de archivos esta construida en base a multer y la base de datos con mo
 ## Installation and Setup Instructions
 
 #### Instructions:  
+
+The backend along with the build of the front end is in the main directory and the frontend is in the 'front' branch.
+
+Clone down this repository. You will need `node` and `npm` installed globally on your machine, switch branch to main.
+
+First you need to do a "npm install" inside every folder to download and set the dependencies and then follow the next instructions:
+
+- Run mongod.exe and later mongo.exe.
+- Run backend
+- Run front end
+- enjoy
+ 
+          
+Installation:
+
+`npm install`  
+
+
+To Start Server:
+
+`npm start`  
+
+## Reflection
 
 
