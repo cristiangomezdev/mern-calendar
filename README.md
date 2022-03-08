@@ -2,7 +2,7 @@
 Web Application -  [Open App by click here](https://mern-calendar-api-22.herokuapp.com/)  /
 - Correo:
 ```diff
- 123456
+ gomez1@gmail.com
 ```
 - Password:
  ```diff
