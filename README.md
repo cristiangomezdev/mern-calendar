@@ -13,7 +13,7 @@ Web Application -  [Open App by click here / Abrir la aplicacion](https://mern-c
 
 #### Calendario - mern:
 
-This project is a personal calendar, you can sign up, log in, upload events and visualize them in a graphical enverioment.
+This project is a personal calendar, you can sign up, log in, upload events and visualize them in a graphical enviroment.
 
 El projecto es un calendario, te podes registrar, loguearte , subir eventos y visualizarlos en un entorno grafico.
 
